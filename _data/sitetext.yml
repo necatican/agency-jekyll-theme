@@ -1,23 +1,23 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Waffles, Pancakes, Milksahkes and more…
+    text: Good Vibes Only
     button: Tell Me More
     buttonlink: "#services"
 
 services:
-    title: "Services"
+    title: "About"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Chocolate Bar"
+        desc: "With our special chocolate bar the only limit for our milkshakes are your imagination."
+        image: https://images.unsplash.com/photo-1542800262-8b3c1a6007ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
+      - title: "New Tastes"
+        desc: "We make desserts like you have never ever tasted before in Turkey."
+        image: https://images.unsplash.com/photo-1558961363-fa8fdf82db35?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80       
+      - title: "Good Vibes Only"
+        desc: "Leave our shop with a full stomach and Good Vibes Only."
+        image: https://images.unsplash.com/photo-1549147133-8450b6fe7ef3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
 
 portfolio:
     title: "Portfolio"
