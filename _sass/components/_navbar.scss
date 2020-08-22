@@ -32,7 +32,7 @@
         @include heading-font;
         &.active,
         &:hover {
-          color: $primary;
+        color: rgb(253, 93, 253);
         }
       }
     }
