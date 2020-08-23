@@ -7,8 +7,9 @@
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: $primary;
-    @include heading-font;
+    background-image: url("../img/headerstripes.png"), url("../img/headerbloom.gif");
+    background-size: cover;
+    background-color: #401453;    @include heading-font;
   }
   .navbar-brand {
     background-image: url("../img/headerstripes.png"), url("../img/headerbloom.gif");
