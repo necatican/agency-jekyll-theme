@@ -11,13 +11,13 @@ services:
     list:
       - title: "Chocolate Bar"
         desc: "With our special chocolate bar the only limit for our milkshakes are your imagination."
-        image: url(https://images.unsplash.com/photo-1542800262-8b3c1a6007ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+        image: assets/img/cbar.jpg
       - title: "New Tastes"
         desc: "We make desserts like you have never ever tasted before in Turkey."
-        image: https://images.unsplash.com/photo-1558961363-fa8fdf82db35?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80       
+        image: assets/img/cookie.jpg      
       - title: "Good Vibes Only"
         desc: "Leave our shop with a full stomach and Good Vibes Only."
-        image: https://images.unsplash.com/photo-1549147133-8450b6fe7ef3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
+        image: assets/img/gvo.jpg
 
 portfolio:
     title: "Menu"
