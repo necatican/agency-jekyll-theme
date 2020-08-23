@@ -14,7 +14,7 @@
       <div class="row text-center">
 	  {% for service in site.data.sitetext.services.list %}
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid" src="{{ service.img }}" alt="">
+          <img class="rounded-circle img-fluid" src="{{ service.image }}" alt="">
           <h4 class="service-heading">{{ service.title | markdownify }}</h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
         </div>
