@@ -1,5 +1,6 @@
 // Styling for the navbar
 #mainNav {
+   background-image: url("../img/headerstripes.png"), url("../img/headerbloom.gif");
   .navbar-toggler {
     font-size: 12px;
     right: 0;
@@ -7,14 +8,11 @@
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-image: url("../img/headerstripes.png"), url("../img/headerbloom.gif");
-    background-size: cover;
-    background-color: #401453;    @include heading-font;
+    background-color: $primary;
+    @include heading-font;
   }
   .navbar-brand {
-    background-image: url("../img/headerstripes.png"), url("../img/headerbloom.gif");
-    background-size: cover;
-    background-color: #401453;
+    color: $primary;
     @include script-font;
     &.active,
     &:active,
