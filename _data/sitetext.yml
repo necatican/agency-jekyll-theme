@@ -5,7 +5,8 @@ header:
     buttonlink: "#services"
 
 services:
-    title: "About"
+    title: "About
+    "
     section: services
     list:
       - title: "Chocolate Bar"
@@ -27,7 +28,7 @@ portfolio:
 
 timeline:
     title: "Franchise" 
-    text: "Be a part of our family..."
+    text: "Be part of our family..."
     section: timeline
     events:
       - title: "Our Humble Beginnings"
